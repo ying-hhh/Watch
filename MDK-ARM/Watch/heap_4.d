@@ -1,0 +1,14 @@
+.\watch\heap_4.o: FreeRTOS\portable\heap_4.c
+.\watch\heap_4.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+.\watch\heap_4.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h
+.\watch\heap_4.o: ./FreeRTOS/include/FreeRTOS.h
+.\watch\heap_4.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+.\watch\heap_4.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+.\watch\heap_4.o: ./FreeRTOS/FreeRTOSConfig.h
+.\watch\heap_4.o: ./FreeRTOS/include/projdefs.h
+.\watch\heap_4.o: ./FreeRTOS/include/portable.h
+.\watch\heap_4.o: ./FreeRTOS/include/deprecated_definitions.h
+.\watch\heap_4.o: ./FreeRTOS/portable/portmacro.h
+.\watch\heap_4.o: ./FreeRTOS/include/mpu_wrappers.h
+.\watch\heap_4.o: ./FreeRTOS/include/task.h
+.\watch\heap_4.o: ./FreeRTOS/include/list.h

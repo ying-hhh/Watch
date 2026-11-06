@@ -1,0 +1,15 @@
+.\watch\event_groups.o: FreeRTOS\event_groups.c
+.\watch\event_groups.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+.\watch\event_groups.o: ./FreeRTOS/include/FreeRTOS.h
+.\watch\event_groups.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+.\watch\event_groups.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+.\watch\event_groups.o: ./FreeRTOS/FreeRTOSConfig.h
+.\watch\event_groups.o: ./FreeRTOS/include/projdefs.h
+.\watch\event_groups.o: ./FreeRTOS/include/portable.h
+.\watch\event_groups.o: ./FreeRTOS/include/deprecated_definitions.h
+.\watch\event_groups.o: ./FreeRTOS/portable/portmacro.h
+.\watch\event_groups.o: ./FreeRTOS/include/mpu_wrappers.h
+.\watch\event_groups.o: ./FreeRTOS/include/task.h
+.\watch\event_groups.o: ./FreeRTOS/include/list.h
+.\watch\event_groups.o: ./FreeRTOS/include/timers.h
+.\watch\event_groups.o: ./FreeRTOS/include/event_groups.h

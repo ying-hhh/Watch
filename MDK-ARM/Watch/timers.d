@@ -1,0 +1,15 @@
+.\watch\timers.o: FreeRTOS\timers.c
+.\watch\timers.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+.\watch\timers.o: ./FreeRTOS/include/FreeRTOS.h
+.\watch\timers.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+.\watch\timers.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+.\watch\timers.o: ./FreeRTOS/FreeRTOSConfig.h
+.\watch\timers.o: ./FreeRTOS/include/projdefs.h
+.\watch\timers.o: ./FreeRTOS/include/portable.h
+.\watch\timers.o: ./FreeRTOS/include/deprecated_definitions.h
+.\watch\timers.o: ./FreeRTOS/portable/portmacro.h
+.\watch\timers.o: ./FreeRTOS/include/mpu_wrappers.h
+.\watch\timers.o: ./FreeRTOS/include/task.h
+.\watch\timers.o: ./FreeRTOS/include/list.h
+.\watch\timers.o: ./FreeRTOS/include/queue.h
+.\watch\timers.o: ./FreeRTOS/include/timers.h

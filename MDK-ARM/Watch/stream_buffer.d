@@ -1,0 +1,14 @@
+.\watch\stream_buffer.o: FreeRTOS\stream_buffer.c
+.\watch\stream_buffer.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+.\watch\stream_buffer.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h
+.\watch\stream_buffer.o: ./FreeRTOS/include/FreeRTOS.h
+.\watch\stream_buffer.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+.\watch\stream_buffer.o: ./FreeRTOS/FreeRTOSConfig.h
+.\watch\stream_buffer.o: ./FreeRTOS/include/projdefs.h
+.\watch\stream_buffer.o: ./FreeRTOS/include/portable.h
+.\watch\stream_buffer.o: ./FreeRTOS/include/deprecated_definitions.h
+.\watch\stream_buffer.o: ./FreeRTOS/portable/portmacro.h
+.\watch\stream_buffer.o: ./FreeRTOS/include/mpu_wrappers.h
+.\watch\stream_buffer.o: ./FreeRTOS/include/task.h
+.\watch\stream_buffer.o: ./FreeRTOS/include/list.h
+.\watch\stream_buffer.o: ./FreeRTOS/include/stream_buffer.h

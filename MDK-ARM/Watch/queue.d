@@ -1,0 +1,15 @@
+.\watch\queue.o: FreeRTOS\queue.c
+.\watch\queue.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+.\watch\queue.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h
+.\watch\queue.o: ./FreeRTOS/include/FreeRTOS.h
+.\watch\queue.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+.\watch\queue.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+.\watch\queue.o: ./FreeRTOS/FreeRTOSConfig.h
+.\watch\queue.o: ./FreeRTOS/include/projdefs.h
+.\watch\queue.o: ./FreeRTOS/include/portable.h
+.\watch\queue.o: ./FreeRTOS/include/deprecated_definitions.h
+.\watch\queue.o: ./FreeRTOS/portable/portmacro.h
+.\watch\queue.o: ./FreeRTOS/include/mpu_wrappers.h
+.\watch\queue.o: ./FreeRTOS/include/task.h
+.\watch\queue.o: ./FreeRTOS/include/list.h
+.\watch\queue.o: ./FreeRTOS/include/queue.h

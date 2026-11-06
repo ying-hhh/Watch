@@ -1,0 +1,16 @@
+.\watch\tasks.o: FreeRTOS\tasks.c
+.\watch\tasks.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+.\watch\tasks.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h
+.\watch\tasks.o: ./FreeRTOS/include/FreeRTOS.h
+.\watch\tasks.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+.\watch\tasks.o: E:\Study\Keil\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+.\watch\tasks.o: ./FreeRTOS/FreeRTOSConfig.h
+.\watch\tasks.o: ./FreeRTOS/include/projdefs.h
+.\watch\tasks.o: ./FreeRTOS/include/portable.h
+.\watch\tasks.o: ./FreeRTOS/include/deprecated_definitions.h
+.\watch\tasks.o: ./FreeRTOS/portable/portmacro.h
+.\watch\tasks.o: ./FreeRTOS/include/mpu_wrappers.h
+.\watch\tasks.o: ./FreeRTOS/include/task.h
+.\watch\tasks.o: ./FreeRTOS/include/list.h
+.\watch\tasks.o: ./FreeRTOS/include/timers.h
+.\watch\tasks.o: ./FreeRTOS/include/stack_macros.h
